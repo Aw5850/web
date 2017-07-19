@@ -5,7 +5,7 @@
 * `HTML+CSS:`<br/>
    * HTML基础、CSS基础、div+css布局、<br/>
    * HTML+css整站开发<br/>
-   * HTML5：<br/>
+   * HTML5：
      HTML5新语义标签、html5表单、音频和视频、离线和本地存储、SVG、Web Socket、Canvas.<br/>
    * CSS3:
      CSS3新选择器、伪元素、边框、阴影、background系列属性改变、Transition、动画、3D效果制作、元素进场、出场策略、炫酷css3网页制作。
