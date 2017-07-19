@@ -1,6 +1,6 @@
 # 大前端学习路线
 
-### 第一阶段：入门
+### 第一阶段：HTML+CSS基础
 
 1. HTML+CSS:
    * HTML基础、CSS基础、div+css布局、
@@ -9,28 +9,29 @@
      HTML5新语义标签、html5表单、音频和视频、离线和本地存储、SVG、Web Socket、Canvas.
    * CSS3:
      CSS3新选择器、伪元素、边框、阴影、background系列属性改变、Transition、动画、3D效果制作、元素进场、出场策略、炫酷css3网页制作。
-
-2. JavaScript基础：
-   * js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
-
-3. JS基本特效：
-   * 常见特效、例如：tab、导航、整页滚动、轮播图、JS制作幻灯片、弹出层、手风琴菜单、瀑布流布局、滚动事件、滚差视图。
-   
-4. 基础框架必备
-   * JQuery：基础使用
-     [官网](http://jquery.com/) <br/>
-     [学习手册](http://www.w3school.com.cn/jquery/) <br/>
-     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
-   * Bootstrap：基础使用
+     
+2. 基础框架必备
+   * Bootstrap：基础使用<br/>
      [官网](https://getbootstrap.com/)<br/>
      [学习手册](http://www.bootcss.com/)<br/>
      掌握技能：响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
-### 第二阶段：进阶
-1. JS高级特征：
-   * 正则表达式、排序算法、递归算法、闭包、函数节流、作用域链、基于距离运动框架、面向对象基础、
+     
+### 第二阶段：JS基础和进阶
+* `JavaScript基础：`
+   js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
 
-2. 移动Web开发：
-   * 跨终端WEB和主流设备简介、视口、流式布局、弹性盒子、rem、移动终端JavaScript事件、手机中常见JS效果制作、Zepto.js、手机聚划算页面、手机滚屏。
+* `JS基本特效：`
+   常见特效、例如：tab、导航、整页滚动、轮播图、JS制作幻灯片、弹出层、手风琴菜单、瀑布流布局、滚动事件、滚差视图。
+* `JS高级特征：`
+   1.正则表达式、
+   2.排序算法、递归算法
+   3.闭包、函数节流、作用域链、
+   4.面向对象基础、
+* `基础框架必备:`
+     JQuery：基础使用<br/>
+     [官网](http://jquery.com/) <br/>
+     [学习手册](http://www.w3school.com.cn/jquery/) <br/>
+     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
 
 ### 第三阶段：HTTP服务和AJAX编程
 
