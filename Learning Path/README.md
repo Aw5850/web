@@ -3,8 +3,8 @@
 ### 第一阶段：打基础
 
 1. HTML+CSS:
->> * HTML进阶、CSS进阶、div+css布局、
->> * HTML+css整站开发、
+   * HTML进阶、CSS进阶、div+css布局、
+   * HTML+css整站开发、
 
 2. JavaScript基础：
 >> * js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
