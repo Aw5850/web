@@ -2,7 +2,7 @@
 
 ### 第一阶段：HTML+CSS基础
 
-1. HTML+CSS:
+1. HTML+CSS:<br/>
    * HTML基础、CSS基础、div+css布局、
    * HTML+css整站开发、
    * HTML5：
@@ -10,24 +10,24 @@
    * CSS3:
      CSS3新选择器、伪元素、边框、阴影、background系列属性改变、Transition、动画、3D效果制作、元素进场、出场策略、炫酷css3网页制作。
      
-2. 基础框架必备
+2. 基础框架必备<br/>
    * Bootstrap：基础使用<br/>
      [官网](https://getbootstrap.com/)<br/>
      [学习手册](http://www.bootcss.com/)<br/>
      掌握技能：响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
      
 ### 第二阶段：JS基础和进阶
-* `JavaScript基础：`
+* `JavaScript基础：`<br/>
    js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
 
-* `JS基本特效：`
+* `JS基本特效：`<br/>
    常见特效、例如：tab、导航、整页滚动、轮播图、JS制作幻灯片、弹出层、手风琴菜单、瀑布流布局、滚动事件、滚差视图。
-* `JS高级特征：`
+* `JS高级特征：`<br/>
    1.正则表达式、
    2.排序算法、递归算法
    3.闭包、函数节流、作用域链、
    4.面向对象基础、
-* `基础框架必备:`
+* `基础框架必备:`<br/>
      JQuery：基础使用<br/>
      [官网](http://jquery.com/) <br/>
      [学习手册](http://www.w3school.com.cn/jquery/) <br/>
