@@ -2,9 +2,24 @@
 前端相关知识汇总
 
 ### 1. 体系
-  * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
+* [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
   
 ### 2. 开发规范<br />
 * [编码规范 by @mdo ](http://codeguide.bootcss.com/)<br />
 * [规范 - NEC : 更好的CSS样式解决方案 ](http://nec.netease.com/standard)<br />
 * [适用于小团队的前端规范 ](http://front-end-standards.com/)<br />
+
+### 3. 主流框架
+> vue
+* [vue官方教程](https://cn.vuejs.org/v2/guide/)
+> Angular
+* [Angularjs开发指南](http://www.angularjs.cn/T008)
+* [AngularJS在线教程](http://each.sinaapp.com/angular/)
+> React.js
+* 
+### 4. 
+##### 开发工具
+
+##### 笔记工具
+* [思维导图]()
+* [Markdown系列]()
