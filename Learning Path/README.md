@@ -3,8 +3,8 @@
 ### 第一阶段：HTML+CSS基础
 
 1. HTML+CSS:<br/>
-   * HTML基础、CSS基础、div+css布局、
-   * HTML+css整站开发、
+   * HTML基础、CSS基础、div+css布局、<br/>
+   * HTML+css整站开发<br/>
    * HTML5：
      HTML5新语义标签、html5表单、音频和视频、离线和本地存储、SVG、Web Socket、Canvas.
    * CSS3:
@@ -28,10 +28,10 @@
    3.闭包、函数节流、作用域链、
    4.面向对象基础、
 * `基础框架必备:`<br/>
-     JQuery：基础使用<br/>
-     [官网](http://jquery.com/) <br/>
-     [学习手册](http://www.w3school.com.cn/jquery/) <br/>
-     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
+      JQuery：基础使用<br/>
+     [官网](http://jquery.com/)<br/>
+     [学习手册](http://www.w3school.com.cn/jquery/)<br/>
+      掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
 
 ### 第三阶段：HTTP服务和AJAX编程
 
