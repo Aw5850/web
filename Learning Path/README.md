@@ -1,50 +1,51 @@
 # 大前端学习路线
 
-### 第一阶段：打基础
+### 第一阶段：入门
 
 1. HTML+CSS:
-   * HTML进阶、CSS进阶、div+css布局、
+   * HTML基础、CSS基础、div+css布局、
    * HTML+css整站开发、
+   * HTML5：
+     HTML5新语义标签、html5表单、音频和视频、离线和本地存储、SVG、Web Socket、Canvas.
+   * CSS3:
+     CSS3新选择器、伪元素、边框、阴影、background系列属性改变、Transition、动画、3D效果制作、元素进场、出场策略、炫酷css3网页制作。
 
 2. JavaScript基础：
->> * js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
+   * js基础教程、js内置对象常用方法、常见DOM树操作大全、ECMAscript、DOM、BOM、定时器和焦点图。
 
 3. JS基本特效：
->> * 常见特效、例如：tab、导航、整页滚动、轮播图、JS制作幻灯片、弹出层、手风琴菜单、瀑布流布局、滚动事件、滚差视图。
+   * 常见特效、例如：tab、导航、整页滚动、轮播图、JS制作幻灯片、弹出层、手风琴菜单、瀑布流布局、滚动事件、滚差视图。
+   
+4. 基础框架必备
+   * JQuery：基础使用
+     [官网](http://jquery.com/)
+     [学习手册](http://www.w3school.com.cn/jquery/)
+     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。
+   
+   * Bootstrap：基础使用
+     [官网](https://getbootstrap.com/):
+     [学习手册](http://www.bootcss.com/)
+     掌握技能：响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
+### 第二阶段：进阶
+1. JS高级特征：
+   * 正则表达式、排序算法、递归算法、闭包、函数节流、作用域链、基于距离运动框架、面向对象基础、
 
-4. JS高级特征：
->> * 正则表达式、排序算法、递归算法、闭包、函数节流、作用域链、基于距离运动框架、面向对象基础、
-
-5. JQuery：基础使用
->> * 悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。
-
-### 第二阶段：HTML5和移动Web开发
-
-HTML5：
-HTML5新语义标签、html5表单、音频和视频、离线和本地存储、SVG、Web Socket、Canvas.
-
-CSS3:
-CSS3新选择器、伪元素、脸色表示法、边框、阴影、background系列属性改变、Transition、动画、景深和深透、3D效果制作、Velocity.js框架、元素进场、出场策略、炫酷css3网页制作。
-
-Bootstrap:
-响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
-
-移动Web开发：
-跨终端WEB和主流设备简介、视口、流式布局、弹性盒子、rem、移动终端JavaScript事件、手机中常见JS效果制作、Zepto.js、手机聚划算页面、手机滚屏。
+2. 移动Web开发：
+   * 跨终端WEB和主流设备简介、视口、流式布局、弹性盒子、rem、移动终端JavaScript事件、手机中常见JS效果制作、Zepto.js、手机聚划算页面、手机滚屏。
 
 ### 第三阶段：HTTP服务和AJAX编程
 
-WEB服务器基础：
-服务器基础知识、Apache服务器和其他WEB服务器介绍、Apache服务器搭建、HTTP介绍。
+   * WEB服务器基础：
+     服务器基础知识、Apache服务器和其他WEB服务器介绍、Apache服务器搭建、HTTP介绍。
 
-PHP基础：
-PHP基础语法、使用php处理简单的GET或者POST请求、
+   * PHP基础：
+     PHP基础语法、使用php处理简单的GET或者POST请求、
 
-AJAX上篇：
-Ajax简介和异步的概念、Ajax框架的封装、XMLHttpRequest对象详细介绍方法、兼容性处理方法、Ajax框架的封装、Ajax中缓存问题、XML介绍和使用。
+   * AJAX上篇：
+     Ajax简介和异步的概念、Ajax框架的封装、XMLHttpRequest对象详细介绍方法、兼容性处理方法、Ajax框架的封装、Ajax中缓存问题、XML介绍和使用。
 
-AJAX下篇：
-JSON和JSON解析、数据绑定和模板技术、JSONP、跨域技术、图片预读取和lazy-load技术、jQuery框架中的AjaxAPI、使用Ajax实现爆布流案例额。
+   * AJAX下篇：
+     JSON和JSON解析、数据绑定和模板技术、JSONP、跨域技术、图片预读取和lazy-load技术、jQuery框架中的AjaxAPI、使用Ajax实现爆布流案例额。
 
 ### 第四阶段：面向对象进阶
 
