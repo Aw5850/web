@@ -18,13 +18,12 @@
    
 4. 基础框架必备
    * JQuery：基础使用
-     [官网](http://jquery.com/)
-     [学习手册](http://www.w3school.com.cn/jquery/)
-     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。
-   
-   * Bootstrap：基础使用
-     [官网](https://getbootstrap.com/):
-     [学习手册](http://www.bootcss.com/)
+     [官网](http://jquery.com/) <br/>
+     [学习手册](http://www.w3school.com.cn/jquery/) <br/>
+     掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
+   * Bootstrap：基础使用
+     [官网](https://getbootstrap.com/)<br/>
+     [学习手册](http://www.bootcss.com/)<br/>
      掌握技能：响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
 ### 第二阶段：进阶
 1. JS高级特征：
