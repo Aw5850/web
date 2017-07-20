@@ -27,6 +27,7 @@
 > Git && GitHub系列
 * [点我下载GitHub Desktop](https://desktop.github.com/)客户端
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
+* [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819) 
 
 ##### 笔记工具
 > 思维导图
