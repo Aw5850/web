@@ -1,4 +1,4 @@
-# web
+﻿# web
 前端相关知识汇总
 
 ### 1. 体系
@@ -16,6 +16,7 @@
 * [Angularjs开发指南](http://www.angularjs.cn/T008)
 * [AngularJS在线教程](http://each.sinaapp.com/angular/)
 > React.js
+* [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 * 
 ### 4. 
 ##### 开发工具
