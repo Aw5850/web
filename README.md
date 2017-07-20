@@ -20,10 +20,12 @@
 * 
 ### 4. 常用工具
 ##### 开发工具
->Git && GitHub系列
-
+> Git && GitHub系列
+* [点我下载GitHub Desktop](https://desktop.github.com/)客户端
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
 
 ##### 笔记工具
-* [思维导图]()
-* [Markdown系列]()
+> 思维导图
+* [XMind思维导图下载](http://www.xmind.net/download/win/)
+* [XMind新手入门完整攻略](http://www.xmindchina.net/xinshou/xmind-xinshourumen.html)
+> Markdown系列
