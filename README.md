@@ -18,8 +18,14 @@
 > React.js
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 * 
-### 4. 常用工具
+### 4. 工具
 ##### 开发工具
+> 编写代码工具
+  1.Sublime(<span style="color:red">推荐</span>)
+* [下载Sublime Text](http://www.sublimetext.com/)
+* [Sublime Text 3使用教程](http://www.ithao123.cn/content-5150408.html)
+  2.Webstrom
+
 > Git && GitHub系列
 * [点我下载GitHub Desktop](https://desktop.github.com/)客户端
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
