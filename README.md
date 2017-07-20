@@ -20,11 +20,9 @@
 * 
 ### 4. 工具
 ##### 开发工具
-> 编写代码工具
-  1.Sublime(<span style="color:red">推荐</span>)
+> Sublime(写代码)
 * [下载Sublime Text](http://www.sublimetext.com/)
 * [Sublime Text 3使用教程](http://www.ithao123.cn/content-5150408.html)
-  2.Webstrom
 
 > Git && GitHub系列
 * [点我下载GitHub Desktop](https://desktop.github.com/)客户端
