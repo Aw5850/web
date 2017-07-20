@@ -18,8 +18,11 @@
 > React.js
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 * 
-### 4. 
+### 4. 常用工具
 ##### 开发工具
+>Git && GitHub系列
+
+* [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
 
 ##### 笔记工具
 * [思维导图]()
