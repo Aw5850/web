@@ -1,4 +1,4 @@
-# 大前端学习路线
+﻿# 大前端学习路线
 
 ### 第一阶段：HTML+CSS基础
 
@@ -12,8 +12,6 @@
      
 * `基础框架必备:`<br/>
    * Bootstrap：基础使用<br/>
-     [官网](https://getbootstrap.com/)<br/>
-     [学习手册](http://www.bootcss.com/)<br/>
      掌握技能：响应式概念、媒体查询、响应式网站制作、删格系统、删格系统原理、Bootstrap常用模板、LESS和SASS。
      
 ### 第二阶段：JS基础和进阶
@@ -29,8 +27,6 @@
    * 面向对象基础
 * `基础框架必备:`<br/>
    * JQuery：基础使用<br/>
-     [官网](http://jquery.com/)<br/>
-     [学习手册](http://www.w3school.com.cn/jquery/)<br/>
       掌握技能：悬着器、DOM操作、特效和动画、方法链、拖拽、变形、JQueryUI组件基本使用。   
 
 ### 第三阶段：HTTP服务和AJAX编程
@@ -49,62 +45,62 @@
 
 ### 第四阶段：面向对象进阶
 
-面向对象终极篇：
+* `面向对象终极篇：`
 从内存角度到理解JS面向对象、基本类型、复杂类型、原型链、ES6中的面向对象、属性读写权限、设置器、访问器。
 
-面向对象三大特征：
+* `面向对象三大特征：`
 继承性、多态性、封装性、接口。
 
-设计模式：
+* `设计模式：`
 面向对象编程思维、单例模式、工厂模式、策略模式、观察者模式、模板方法模式、代理模式、装饰者模式、适配器模式、面向切面编程。
 
 
 ### 第五阶段：模块化组件开发
 
-面向组件编程：
+* `面向组件编程：`
 面向组件编程的方式、面向组件编程的实现原理、面向组件编程实战、基于组件化思想开发网站应用程序。
 
-面向模块编程：
+* `面向模块编程：`
 AMD设计规范、CMD设计规范、RequireJS，LoadJS、淘宝的SeaJS。
 
 ### 第六阶段：主流的流行框架
 
-Web开发工作流：
+* `Web开发工作流：`
 Git/SVN、Yeoman脚手架、NPM/Bower依赖管理工具、Grunt/Gulp/Webpack。
 
-MVC/MVVM/MVW框架：
+* `MVC/MVVM/MVW框架：`
 Angular.js、Backbone.js、Knockout/Ember。
 
-常用库：
+* `常用库：`
 React.js、Vue.js、Zepto.js。
 
 ### 第七阶段：HTML5原生移动应用开发
 
-Cordova：
+* `Cordova：`
 WebApp/NativeApp/HybirdApp简介、Cordova简介、与PhoneGap之间的关系、开发环境搭建、Cordova实战（创建项目，配置，编译，调试，部署发布）。
 
-Ionic：
+* `Ionic：`
 Ionic简介和同类对比、模板项目解析、常见组件及使用、结合Angular构建APP、常见效果（下拉刷新，上拉加载，侧滑导航，选项卡）。
 
-React Native：
+* `React Native：`
 react Native简介、React Native环境配置、创建项目，配置，编译，调试，部署发布、原生模块和UI组件、原生常用API。
 
-HTML5+：
+* `HTML5+：`
 Html5+中国产业联盟、HTML5 Plus Runtime环境、HBuilder开发工具、MUI框架、H5+开发和部署。
 
 ### 第八阶段：Node.js全栈开发：
 
-快速入门：
+* `快速入门：`
 Node.js发展、生态圈、Io.js、Linux/Windows/OS X环境配置、REPL环境和控制台程序、异步编程，非阻塞I/O、模块概念，模块管理工具、开发流程，调试，测试。
 
-核心模块和对象：
+* `核心模块和对象：`
 全局对象global，process，console，util、事件驱动，事件发射器、加密解密，路径操作，序列化和反序列化、文件流操作、HTTP服务端与客户端、Socket.IO。
 
-Web开发基础：
+* `Web开发基础：`
 HTTP协议，请求响应处理过程、关系型数据库操作和数据访问、非关系型数据库操作和数据访问、原生的node.js开发Web应用程序、Web开发工作流、Node.js开发Blog案例。
 
-快速开发框架：
+* `快速开发框架：`
 Express简介+MVC简介、Express常用API、Express路由模块、Jade/Ejs模板引擎、使用Express重构Blog案例、Koa等其他常见MVC框架。
 
-Node.js开发电子商务实战：
+* `Node.js开发电子商务实战：`
 需求与设计、账户模块注册登录、会员中心模块、前台展示模块、购物车，订单结算、在线客服即时通讯模块。
