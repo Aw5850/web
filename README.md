@@ -43,7 +43,7 @@
 </table>
 
 
->  ##### JavaScript
+>  <strong>JavaScript</strong>
 <table>
 <tr><td>《JavaScript DOM编程艺术 （第2版）》</td><td>★★★★★</td></tr>
 <tr><td>《JavaScript高级程序设计（第3版）》</td><td>★★★★★</td></tr>
