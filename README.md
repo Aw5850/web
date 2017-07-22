@@ -37,6 +37,8 @@
 
 ### 5. 推荐前端书籍
 > HTML、CSS
+* 《HTML 5与CSS 3权威指南(第3版·上册）》
+* 《HTML 5与CSS 3权威指南(第3版·下册）》
 > JavaScript
 * 《JavaScript DOM编程艺术 （第2版）》★★★
 * 《JavaScript高级程序设计（第3版）》★★★★★
