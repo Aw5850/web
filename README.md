@@ -34,3 +34,10 @@
 * [XMind思维导图下载](http://www.xmind.net/download/win/)
 * [XMind新手入门完整攻略](http://www.xmindchina.net/xinshou/xmind-xinshourumen.html)
 > Markdown系列
+
+### 5. 推荐前端书籍
+> HTML、CSS
+> JavaScript
+* 《JavaScript DOM编程艺术 （第2版）》★★★
+* 《JavaScript高级程序设计（第3版）》★★★★★
+* 《锋利的jQuery》★★★
