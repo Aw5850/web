@@ -13,11 +13,17 @@
 
 ### 3. 前端必备掌握内容
 #### HTML
+* [HTML特殊字符编码对照表](http://www.jb51.net/onlineread/htmlchar.htm)
 
 #### CSS
+> **动画**
+* [CSS3动画手册](http://isux.tencent.com/css3/)
 
+> **css处理**
+* [less(中)](http://less.bootcss.com/)
 #### JS
 * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
+* [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
 #### 主流框架
 > vue
@@ -46,6 +52,7 @@
 * [XMind思维导图下载](http://www.xmind.net/download/win/)
 * [XMind新手入门完整攻略](http://www.xmindchina.net/xinshou/xmind-xinshourumen.html)
 > Markdown系列
+* [Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
 ### 5. 推荐前端书籍
 >  `HTML、CSS`
