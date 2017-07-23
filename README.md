@@ -74,8 +74,9 @@
 <tr><td rowspan="3">推荐书籍</td><td><a href="https://www.amazon.cn/%E9%94%8B%E5%88%A9%E7%9A%84jQuery-%E5%8D%95%E4%B8%9C%E6%9E%97/dp/B0089TDFNS/ref=sr_1_1?s=books&ie=UTF8&qid=1441336606&sr=1-1&keywords=jquery">锋利的jQuery </a></td></tr>
 <tr><td><a href="https://www.amazon.cn/JavaScript%E6%A8%A1%E5%BC%8F-%E6%96%AF%E7%89%B9%E5%87%A1%E6%B4%9B%E5%A4%AB/dp/B008QTG1HS/ref=pd_sim_14_4?ie=UTF8&refRID=0GFWHP5GKR1BWB9FN109">JavaScript设模式</a></td></tr>
 <tr><td><a href="https://www.amazon.cn/React-%E5%BC%95%E9%A2%86%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6-%E5%8D%93%E8%B6%8A%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E7%9B%9F/dp/B00WUA5OL8/ref=sr_1_1?s=books&ie=UTF8&qid=1441336842&sr=1-1&keywords=React">React:引领未来的用户界面开发框架</a></td></tr>
-<tr><td rowspan="2">在线书籍</td><td><a href="http://es6.ruanyifeng.com/">ES6入门</a></td><tr>
-<tr><td> <a href="https://dwqs.gitbooks.io/frontenddevhandbook/content/">前端开发者手册</a></td><tr>
+<tr><td rowspan="3">在线书籍</td><td><a href="http://es6.ruanyifeng.com/">ES6入门</a></td><tr>
+<tr><td><a href="https://dwqs.gitbooks.io/frontenddevhandbook/content/">前端开发者手册</a></td><tr>
+<tr><td><a href="https://dwqs.gitbooks.io/frontenddevhandbook/content/">前端开发者手册</a></td><tr>
 </table>
 
 ### 6. Photoshop技能
