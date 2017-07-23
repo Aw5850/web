@@ -59,5 +59,6 @@
 <table>
 <tr><td>入门推荐首选书籍</td><td>《JavaScript DOM编程艺术 （第2版）》</td></tr>
 <tr><td>进阶提升书籍</td><td>《JavaScript高级程序设计（第3版）》</td></tr>
-<tr><td rowspan="2">其他推荐书籍</td><td>《锋利的jQuery》</td><td>《JavaScript设计模式》</td></tr>
+<tr><td rowspan="2">其他推荐书籍</td><td>《锋利的jQuery》</td></tr>
+<tr><td>《JavaScript设计模式》</td></tr>
 </table>
