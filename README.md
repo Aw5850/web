@@ -3,13 +3,23 @@
 
 ### 1. 体系
 * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
+* [前端开发人员必须了解的七大技能图谱](http://www.aseoe.com/show-28-830-1.html)
+* [前端学习总结](http://www.aseoe.com/show-28-450-1.html)
   
 ### 2. 开发规范<br />
 * [编码规范 by @mdo ](http://codeguide.bootcss.com/)<br />
 * [规范 - NEC : 更好的CSS样式解决方案 ](http://nec.netease.com/standard)<br />
 * [适用于小团队的前端规范 ](http://front-end-standards.com/)<br />
 
-### 3. 主流框架
+### 3. 前端必备掌握内容
+#### HTML
+
+#### CSS
+
+#### JS
+* [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
+* [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
+#### 主流框架
 > vue
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
 > Angular
@@ -26,6 +36,7 @@
 
 ##### 版本控制工具
 > Git && GitHub系列
+* [Git 使用教程](http://www.aseoe.com/special/webstart/git/)
 * [点我下载GitHub Desktop](https://desktop.github.com/)客户端
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
 * [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819) 
@@ -46,7 +57,7 @@
 
 >  `JavaScript`
 <table>
-<tr><td>《JavaScript DOM编程艺术 （第2版）》</td><td>★★★★★</td></tr>
-<tr><td>《JavaScript高级程序设计（第3版）》</td><td>★★★★★</td></tr>
-<tr><td>《锋利的jQuery》</td><td>★★★★</td></tr>
+<tr><td>入门推荐首选书籍</td><td>《JavaScript DOM编程艺术 （第2版）》</td></tr>
+<tr><td>进阶提升书籍</td><td>《JavaScript高级程序设计（第3版）》</td></tr>
+<tr><td rowspan="2">其他推荐书籍</td><td>《锋利的jQuery》</td><td>《JavaScript设计模式》</td></tr>
 </table>
