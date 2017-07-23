@@ -12,10 +12,10 @@
 * [适用于小团队的前端规范 ](http://front-end-standards.com/)<br />
 
 ### 3. 前端必备掌握内容
-#### HTML
+#### `HTML`
 * [HTML特殊字符编码对照表](http://www.jb51.net/onlineread/htmlchar.htm)
 
-#### CSS
+#### `CSS`
 > **动画**
 * [CSS3动画手册](http://isux.tencent.com/css3/)
 
