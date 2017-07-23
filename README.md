@@ -21,17 +21,17 @@
 
 > **css处理**
 * [less(中)](http://less.bootcss.com/)
-#### JS
+#### JavaScipt
 * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
 #### 主流框架
-> vue
+> **vue**
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
-> Angular
+> **Angular**
 * [Angularjs开发指南](http://www.angularjs.cn/T008)
 * [AngularJS在线教程](http://each.sinaapp.com/angular/)
-> React.js
+> **React.js**
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 * 
 ### 4. 工具
