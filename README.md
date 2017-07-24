@@ -1,7 +1,7 @@
 ﻿# Web大前端
 前端相关知识汇总
 
-## 1. 体系
+### 1. 体系
 * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
 * [前端开发人员必须了解的七大技能图谱](http://www.aseoe.com/show-28-830-1.html)
 * [前端学习总结](http://www.aseoe.com/show-28-450-1.html)
@@ -22,11 +22,12 @@
 > **css处理**
 * [less(中)](http://less.bootcss.com/)
 * [stylus中文版参考文档](http://www.zhangxinxu.com/jq/stylus/)
-#### `JavaScipt`
+#### `JavaScript`
 * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
 * [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
 #### `主流框架`
 > **vue**
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
