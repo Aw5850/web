@@ -1,7 +1,7 @@
-﻿# web
+﻿# Web大前端
 前端相关知识汇总
 
-### 1. 体系
+## 1. 体系
 * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
 * [前端开发人员必须了解的七大技能图谱](http://www.aseoe.com/show-28-830-1.html)
 * [前端学习总结](http://www.aseoe.com/show-28-450-1.html)
