@@ -26,6 +26,7 @@
 * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
+* [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 #### `主流框架`
 > **vue**
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
@@ -81,3 +82,4 @@
 ### 6. Photoshop技能
 > 配色方案
 * [中国色彩大辞典](http://color.uisdc.com/)
+
