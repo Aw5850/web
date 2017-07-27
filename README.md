@@ -78,7 +78,7 @@
 <tr><td><a href="https://www.amazon.cn/React-%E5%BC%95%E9%A2%86%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6-%E5%8D%93%E8%B6%8A%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E7%9B%9F/dp/B00WUA5OL8/ref=sr_1_1?s=books&ie=UTF8&qid=1441336842&sr=1-1&keywords=React">React:引领未来的用户界面开发框架</a></td></tr>
 <tr><td rowspan="5">在线书籍</td><td><a href="http://es6.ruanyifeng.com/">ES6入门</a></td><tr>
 <tr><td><a href="https://dwqs.gitbooks.io/frontenddevhandbook/content/">前端开发者手册</a></td><tr>
-<tr><td"><a href="https://segmentfault.com/a/1190000008921805">《Web全栈工程师的自我修养》浓缩笔记（上）</a></td><tr>
+<tr><td><a href="https://segmentfault.com/a/1190000008921805">《Web全栈工程师的自我修养》浓缩笔记（上）</a></td><tr>
 <tr><td><a href="https://segmentfault.com/a/1190000010128001">《Web全栈工程师的自我修养》浓缩笔记（下）</a></td><tr>
 </table>
 
