@@ -88,4 +88,6 @@
 ### 六. Photoshop技能
 > 配色方案
 * [中国色彩大辞典](http://color.uisdc.com/)
+> 取色工具
+* [React Color](http://casesandberg.github.io/react-color/)
 
