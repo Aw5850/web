@@ -1,17 +1,17 @@
 ﻿# Web大前端
 前端相关知识汇总
 
-### 1. 体系
+### 一. 体系
 * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
 * [前端开发人员必须了解的七大技能图谱](http://www.aseoe.com/show-28-830-1.html)
 * [前端学习总结](http://www.aseoe.com/show-28-450-1.html)
   
-### 2. 开发规范<br />
+### 二. 开发规范<br />
 * [编码规范 by @mdo ](http://codeguide.bootcss.com/)<br />
 * [规范 - NEC : 更好的CSS样式解决方案 ](http://nec.netease.com/standard)<br />
 * [适用于小团队的前端规范 ](http://front-end-standards.com/)<br />
 
-### 3. 前端必备掌握内容
+### 三. 前端必备掌握内容
 #### `HTML`
 * [HTML特殊字符编码对照表](http://www.jb51.net/onlineread/htmlchar.htm)
 
@@ -39,7 +39,7 @@
 
 #### `HTTP`
 * [HTTP状态码详解](http://tool.oschina.net/commons?type=5)
-### 4. 工具
+### 四. 工具
 ##### 开发工具
 > Sublime(写代码)
 * [下载Sublime Text](http://www.sublimetext.com/)
@@ -59,7 +59,10 @@
 > Markdown系列
 * [Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
-### 5. 推荐前端书籍
+##### 工具资源分享
+* [100+ 超全的web开发工具和资源](https://xituqu.com/170.html)
+
+### 五. 推荐前端书籍
 >  `HTML、CSS`
 <table>
 <tr><td>《HTML 5与CSS 3权威指南(第3版·上册）》</td><td>★★★★★</td></tr>
@@ -82,7 +85,7 @@
 <tr><td><a href="https://segmentfault.com/a/1190000010128001">《Web全栈工程师的自我修养》浓缩笔记（下）</a></td></tr>
 </table>
 
-### 6. Photoshop技能
+### 六. Photoshop技能
 > 配色方案
 * [中国色彩大辞典](http://color.uisdc.com/)
 
