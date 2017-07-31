@@ -36,6 +36,7 @@
 > **Angular**
 * [Angularjs开发指南](http://www.angularjs.cn/T008)
 * [AngularJS在线教程](http://each.sinaapp.com/angular/)
+* [Angular4 开发实战](http://ghmagical.com/article/page/id/6iaMdDWC8J9k)
 > **React.js**
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
