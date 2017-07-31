@@ -18,11 +18,13 @@
 #### `CSS`
 > **动画**
 * [CSS3动画手册](http://isux.tencent.com/css3/)
+* [Css3动画工具](http://isux.tencent.com/css3/tools.html)
 
 > **css处理**
 * [less(中)](http://less.bootcss.com/)
 * [stylus中文版参考文档](http://www.zhangxinxu.com/jq/stylus/)
 #### `JavaScript`
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
@@ -39,11 +41,15 @@
 
 #### `HTTP`
 * [HTTP状态码详解](http://tool.oschina.net/commons?type=5)
-### 四. 工具
-##### 开发工具
-> Sublime(写代码)
+### 四. 实用工具
+##### 编辑器
+> Sublime(推荐)
 * [下载Sublime Text](http://www.sublimetext.com/)
 * [Sublime Text 3使用教程](http://www.ithao123.cn/content-5150408.html)
+> WebStorm
+* [下载WebStorm](https://www.jetbrains.com/webstorm/)
+> HBuilder
+* [下载HBuilder](http://www.dcloud.io/)
 
 ##### 版本控制工具
 > Git && GitHub系列
