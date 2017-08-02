@@ -59,6 +59,10 @@
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
 * [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819) 
 
+##### 打包工具
+> Webpack  (当下最热门的前端资源模块化管理和打包工具)
+* [webpack 中文文档（v3.3.0）](http://www.css88.com/doc/webpack/)
+
 ##### 笔记工具
 > 思维导图
 * [XMind思维导图下载](http://www.xmind.net/download/win/)
