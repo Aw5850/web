@@ -91,7 +91,6 @@
 <tr><td><a href="https://segmentfault.com/a/1190000008921805">《Web全栈工程师的自我修养》浓缩笔记（上）</a></td></tr>
 <tr><td><a href="https://segmentfault.com/a/1190000010128001">《Web全栈工程师的自我修养》浓缩笔记（下）</a></td></tr>
 </table>
-<br />
 
 ### 六. 前端公众号
 <table>
@@ -101,17 +100,15 @@
 <th>前端早读课</th>
 </tr>
 <tr>
-<td>![腾讯AlloyTeam](https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png)</td>
-<td>![前端大全](https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png)</td>
-<td>![前端早读课](https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png)</td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png" /></td>
 </tr>
 </table>
-<br/>
 
 ### 七. 懂点设计
 > 配色方案
 * [中国色彩大辞典](http://color.uisdc.com/)
-* ![腾讯AlloyTeam](https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png)
 > 取色工具
 * [React Color](http://casesandberg.github.io/react-color/)
 
