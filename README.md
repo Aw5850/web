@@ -1,4 +1,4 @@
-# Web大前端
+﻿# Web大前端
 前端相关知识汇总
 
 ### 一. 体系
@@ -100,9 +100,9 @@
 <th>前端早读课</th>
 </tr>
 <tr>
-<td><img src="https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png" /></td>
-<td><img src="https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png" /></td>
-<td><img src="https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png" width="154" height="154" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png" width="154" height="154" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png" width="154" height="154" /></td>
 </tr>
 </table>
 
