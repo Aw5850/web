@@ -99,9 +99,9 @@
             <th>前端早读课</th>
         </tr>
         <tr>
-            <td>!(腾讯AlloyTeam)[https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png]</td>
-            <td>!(前端大全)[https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png]</td>
-            <td>!(前端早读课)[https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png]</td>
+            <td>![腾讯AlloyTeam](https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png)</td>
+            <td>![前端大全](https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png)</td>
+            <td>![前端早读课](https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png)</td>
         </tr>
     </table>
 ### 七. 懂点设计
