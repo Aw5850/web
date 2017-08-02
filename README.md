@@ -93,19 +93,7 @@
 </table>
 <br />
 ### 六. 前端公众号
-<table>
-<tr>
-<th>腾讯AlloyTeam</th>
-<th>前端大全</th>
-<th>前端早读课</th>
-</tr>
-<tr>
-<td>![腾讯AlloyTeam](https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png)</td>
-<td>![前端大全](https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png)</td>
-<td>![前端早读课](https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png)</td>
-</tr>
-</table>
-<br/>
+
 ### 七. 懂点设计
 > 配色方案
 * [中国色彩大辞典](http://color.uisdc.com/)
