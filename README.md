@@ -98,11 +98,13 @@
 <th>腾讯AlloyTeam</th>
 <th>前端大全</th>
 <th>前端早读课</th>
+<th>前端之巅</th>
 </tr>
 <tr>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png" width="154" height="154" /></td>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png" width="154" height="154" /></td>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png" width="154" height="154" /></td>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/front-show.png" width="154" height="154" /></td>
 </tr>
 </table>
 
