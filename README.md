@@ -1,11 +1,13 @@
-﻿# Web大前端
+# Web大前端
 前端相关知识汇总
 
 ### 一. 体系
 * [大前端学习路线](https://github.com/Aw5850/web/tree/master/Learning%20Path)
 * [前端开发人员必须了解的七大技能图谱](http://www.aseoe.com/show-28-830-1.html)
 * [前端学习总结](http://www.aseoe.com/show-28-450-1.html)
-  
+* [★前端技能汇总](http://html5ify.com/fks/)
+* [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
+  
 ### 二. 开发规范<br />
 * [编码规范 by @mdo ](http://codeguide.bootcss.com/)<br />
 * [规范 - NEC : 更好的CSS样式解决方案 ](http://nec.netease.com/standard)<br />
@@ -30,6 +32,9 @@
 * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
 * [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
+* [JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)廖雪峰
+> Node.js
+  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 #### `主流框架`
 > **vue**
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
@@ -57,11 +62,16 @@
 * [Git 使用教程](http://www.aseoe.com/special/webstart/git/)
 * [点我下载GitHub Desktop](https://desktop.github.com/)客户端
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
-* [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819) 
+* [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)
+* [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 ##### 打包工具
 > Webpack  (当下最热门的前端资源模块化管理和打包工具)
 * [webpack 中文文档（v3.3.0）](http://www.css88.com/doc/webpack/)
+
+##### 自动化构建工具
+> Gulp
+* [gulp中文文档](http://www.gulpjs.com.cn/docs/getting-started/)
 
 ##### 笔记工具
 > 思维导图
