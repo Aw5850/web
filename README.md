@@ -33,8 +33,8 @@
 * [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
 * [JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)廖雪峰
-> Node.js
-  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+> **Node.js**
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 #### `主流框架`
 > **vue**
 * [vue官方教程](https://cn.vuejs.org/v2/guide/)
