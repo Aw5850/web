@@ -35,7 +35,8 @@
   * [JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)廖雪峰
 * 归纳总结
   * [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
-  * [JavaScript核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)
+  * [JavaScript核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)
+  
 > **Node.js**
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 #### `主流框架`
