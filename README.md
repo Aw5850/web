@@ -26,13 +26,16 @@
 * [less(中)](http://less.bootcss.com/)
 * [stylus中文版参考文档](http://www.zhangxinxu.com/jq/stylus/)
 #### `JavaScript`
-* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
-* [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
-* [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
-* [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
-* [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
-* [JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)廖雪峰
+* 教程
+  * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+  * [Javascript基础教程](http://www.aseoe.com/special/webstart/javascript/)
+  * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+  * [JS正则表达式教程](http://www.aseoe.com/special/webstart/regexp/)
+  * [深入理解javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+  * [JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)廖雪峰
+* 归纳总结
+  * [JavaScript 常用方法总结](http://www.qdfuns.com/notes/19075/ac46ff16096d551c2e4238c73f11a1f3.html)
+  * [JavaScript核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)
 > **Node.js**
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 #### `主流框架`
