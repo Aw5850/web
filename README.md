@@ -14,10 +14,12 @@
 * [适用于小团队的前端规范 ](http://front-end-standards.com/)<br />
 
 ### 三. 前端必备掌握内容
-#### `HTML`
+#### `HTML5`
 * [HTML特殊字符编码对照表](http://www.jb51.net/onlineread/htmlchar.htm)
+> **canvas类库**
+* [Enterprise Charts 商业产品图表库](http://echarts.baidu.com/echarts2/doc/example.html)
 
-#### `CSS`
+#### `CSS3`
 > **动画**
 * [CSS3动画手册](http://isux.tencent.com/css3/)
 * [Css3动画工具](http://isux.tencent.com/css3/tools.html)
