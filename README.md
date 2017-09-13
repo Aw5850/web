@@ -70,6 +70,7 @@
 * [GitHub Desktop使用教程](http://blog.csdn.net/yuxin1100/article/details/52801878)
 * [编写Github上的README.md文件教程](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [99%的时间在使用的Git命令](http://imtuzi.com/post/most-used-git-cmd.html)
 
 ##### 打包工具
 > Webpack  (当下最热门的前端资源模块化管理和打包工具)
