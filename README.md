@@ -122,6 +122,7 @@
 <th>前端之巅</th>
 </tr>
 <tr>
+<td><img src="https://github.com/Aw5850/web/blob/master/image/qrcode_for_gh_afadcd419ee6_344.jpg" width="154" height="154" /></td>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/alloyteam-qrcode.png" width="154" height="154" /></td>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/front-dev-qrcode.png" width="154" height="154" /></td>
 <td><img src="https://github.com/Aw5850/web/blob/master/image/fe-zaoduke-qrcode.png" width="154" height="154" /></td>
